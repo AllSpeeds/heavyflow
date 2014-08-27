@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/AllSpeeds/heavyflow/issues"
   },
-  "homepage": "https://github.com/AllSpeeds/heavyflow"
+  "dependencies": {
+    "onoff": "*"
+  },
+  "homepage": "https://github.com/AllSpeeds/heavyflow",
+  "devDependencies": {
+    "mocha": "*"
+  }
 }
