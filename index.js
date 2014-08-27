@@ -1,5 +1,5 @@
 var Gpio = require('onoff').Gpio;
-var fmeter = new Gpio('#', 'in', 'rising');
+var fmeter = new Gpio('12', 'in', 'rising');
 
 fmeter.watch(function(err, value) {
 	if(err) {
