@@ -1,2 +1,5 @@
 heavyflow
 =========
+
+## Installation
+	npm i

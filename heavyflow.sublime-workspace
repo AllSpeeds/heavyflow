@@ -1,0 +1,1454 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"campai",
+				"campaign_id"
+			],
+			[
+				"EVEN",
+				"EVENT_STATUS_PUBLISHED"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"load",
+				"loadComments"
+			],
+			[
+				"create",
+				"createAndRestoreState"
+			],
+			[
+				"range",
+				"rangeWrapper"
+			],
+			[
+				"injec",
+				"injectionContext"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"for",
+				"forContext"
+			],
+			[
+				"Soci",
+				"SocialInbox"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"sel",
+				"selectEvent"
+			],
+			[
+				"add",
+				"addElements"
+			],
+			[
+				"agend",
+				"agendaItem"
+			],
+			[
+				"stream",
+				"streamItem"
+			],
+			[
+				"It",
+				"ItemDetailTab"
+			],
+			[
+				"Stream",
+				"StreamItemDetail"
+			],
+			[
+				"socia",
+				"social_inbox"
+			],
+			[
+				"rende",
+				"renderCallback"
+			],
+			[
+				"Side",
+				"SidePanelManager"
+			],
+			[
+				"side",
+				"side-panel-open"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"control",
+				"control-group"
+			],
+			[
+				"fa",
+				"fakeControl"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"t",
+				"th	Tag"
+			],
+			[
+				"the",
+				"thead	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git ",
+				"Git: Blame"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"show all",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"xdebug",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"xdebu",
+				"Xdebug: Start Debugging (Launch Browser)"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"git bla",
+				"Git: Blame"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"json ",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"markdo",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"gitbl",
+				"Git: Blame"
+			],
+			[
+				"git bl",
+				"Git: Blame"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"show ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"markdwo",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"error",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pacakge",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/history/history.html",
+		"/Users/cgowan/workspace/sf-styleguide/node_modules/grunt/node_modules/js-yaml/HISTORY.md",
+		"/Users/cgowan/workspace/sf-styleguide/bower_components/can/route/historytabs.html",
+		"/Users/cgowan/workspace/sf-webapp/node/node_modules/socket.io/History.md",
+		"/Users/cgowan/workspace/sf-webapp/node/node_modules/express/History.md",
+		"/Users/cgowan/workspace/sf-webapp/node/node_modules/amqp/History.md",
+		"/Users/cgowan/workspace/sf-styleguide/src/img/icons/logos-svg/hidden-stream.svg",
+		"/Users/cgowan/workspace/sf-webapp/application/views/scripts/partials/highlighted-items.phtml",
+		"/Users/cgowan/workspace/sf-styleguide/bower_components/handlebars/handlebars.js",
+		"/Users/cgowan/workspace/sf-webapp/application/views/scripts/search/campaign.phtml",
+		"/Users/cgowan/workspace/sf-webapp/library/Common/Solr/Service.php",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/social_inbox/streams/inbox_search/inbox_search.js",
+		"/Users/cgowan/workspace/sf-webapp/public/js/common.js",
+		"/Users/cgowan/workspace/sf-webapp/application/forms/BrandedApplication.php",
+		"/Users/cgowan/workspace/sf-webapp/application/forms/Login.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/TagController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/forms/TagImport.php",
+		"/Users/cgowan/workspace/sf-webapp/application/views/scripts/tag/manage.ajax.phtml",
+		"/Users/cgowan/workspace/sf-webapp/application/views/scripts/partials/event-interactions/comments.phtml",
+		"/Users/cgowan/workspace/sf-webapp/application/forms/ConfirmMatch.php",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/config.rb",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/twitter_account_selector/views/add_streams_single_account_selection.mustache",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/admin/_admin.scss",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/bower_components/sf-styleguide/src/sass/spredfast/_forms.scss",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/bower_components/sf-styleguide/src/sass/spredfast/_modals.scss",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/bower_components/sf-styleguide/src/sass/_modals.scss",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/social_inbox/add_streams/twitter_users/twitter_users.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/twitter_account_selector/twitter_account_selector.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/twitter_stream_account_manager/twitter_stream_account_manager.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/social_inbox/add_streams/twitter_users/views/twitter_users.mustache",
+		"/Users/cgowan/Library/Application Support/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/Users/cgowan/Library/Application Support/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/publishing/n2p/confirmation/views/confirmation.mustache",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/publishing/controllers/publishing_controller.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/history/history.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/history/link.mustache",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/publishing/n2p/confirmation/confirmation-api.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/publishing/n2p/injector.js",
+		"/Users/cgowan/workspace/sf-webapp/library/Common/Controller.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/EventController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/views/scripts/event/error.phtml",
+		"/Users/cgowan/workspace/sf-webapp/application/models/Link.php",
+		"/Users/cgowan/workspace/sf-webapp/scripts/lint",
+		"/Users/cgowan/workspace/sf-webapp/application/views/helpers/LogoIcon.php",
+		"/Users/cgowan/workspace/sf-webapp/java/src/main/java/com/spredfast/publish/model/hibernate/HibernatePublishDAO.java",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/content_tab_view_model/content_tab_view_model.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/content_tab_view_model/content_tab_view_model_tests.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/content_tab.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/social_inbox/item_detail/views/item_detail_header.mustache",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/social_inbox/stream_item_details/stream_item_details_panel.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/publishing/side_panel/agenda_item_details_panel.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/views/content_tab.mustache",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/social_inbox/conversation/views/conversation.mustache",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/social_inbox/item_detail/views/item_detail.mustache",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/social_inbox/item_detail/views/item_detail_contents.mustache",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/social_inbox/item_detail/views/item_detail_contents_conversation.mustache",
+		"/Users/cgowan/workspace/sf-webapp/application/models/DbTable/InternalTagsEvents.php",
+		"/Users/cgowan/workspace/sf-webapp/library/google-api-php-client/test/general/IoTest.php",
+		"/Users/cgowan/workspace/sf-webapp/.vagrant/hostmanager/id",
+		"/Users/cgowan/workspace/sf-webapp/application/models/ContentEdit.php",
+		"/Users/cgowan/workspace/sf-webapp/library/google-api-php-client/src/generator/apiGenerator.php",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/almond.js",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/social_inbox/conversation/_conversation.scss",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/spredfast.sublime-workspace",
+		"/Users/cgowan/workspace/spredfast.sublime-project",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/ApplicationViewController.php",
+		"/Users/cgowan/workspace/sf-webapp/library/Common/ButtonContainer.php",
+		"/Users/cgowan/workspace/sf-webapp/public/js/multiselect/css/common.css",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/PersonaController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/PaymentController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/MetricsController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/LandingController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/InvoiceController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/CompanyController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/CommentController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/ChannelController.php",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/datatables/resources/media/unit_testing/controller.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/WizardController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/WidgetController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/StreamController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/SplashController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/SearchController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/ReportController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/ManualController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/HealthController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/FilterController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/VideoController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/ValueController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/SetupController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/QueueController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/PhotoController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/NotesController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/MacroController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/IndexController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/InboxController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/ErrorController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/ChartController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/AdminController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/UserController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/TestController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/SpamController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/SiteController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/SamlController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/LinkController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/LikeController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/InfoController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/HelpController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/GoalController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/CronController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/BlogController.php",
+		"/Users/cgowan/workspace/sf-webapp/application/controllers/ApiController.php",
+		"/Users/cgowan/workspace/sf-webapp/library/Zend/Tool/Project/Provider/Controller.php",
+		"/Users/cgowan/workspace/sf-webapp/library/Zend/Rest/Controller.php",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/social_inbox/conversation/conversation.js",
+		"/Users/cgowan/workspace/sf-id-management/conversion/src/main/java/com/spredfast/idmanagement/dropwizard/ConversionServer.java",
+		"/Users/cgowan/workspace/sf-webapp/data/deltas/174-twitter_lookup.sql",
+		"/Users/cgowan/workspace/sf-webapp/application/models/TwitterInteraction.php",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/test.sh",
+		"/Users/cgowan/workspace/sf-id-management/login/src/main/ui/bower_components/sf-styleguide/src/sass/spredfast/_login.scss",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/bower_components/sf-styleguide/src/sass/spredfast/_login.scss",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/widget/support/login/sass/login.scss",
+		"/Users/cgowan/workspace/sf-id-management/login/src/main/ui/login/sass/login.scss",
+		"/Users/cgowan/workspace/sf-styleguide/src/sass/spredfast/_login.scss",
+		"/Users/cgowan/workspace/sf-webapp/application/models/DbTable/Logins.php",
+		"/Users/cgowan/workspace/sf-webapp/library/Zend/Log.php",
+		"/Users/cgowan/workspace/sf-webapp/node/node_modules/amqp/node_modules/longjohn/dist/longjohn.js",
+		"/Users/cgowan/workspace/sf-webapp/library/phpcassa/test/LargeOpsTest.php",
+		"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/message_tab/views/message_tab.mustache"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/cgowan/workspace/sf-webapp/, -*.css, -*.less, -*.scssc, -*.bin, -*.xml, /Users/cgowan/workspace/sf-styleguide, -bootstrap.min.js",
+			"/Users/cgowan/workspace/sf-webapp/, /Users/cgowan/workspace/sf-id-management/, -*.css, -*.less, -*.scssc, -*.bin, -*.xml, /Users/cgowan/workspace/sf-styleguide, -bootstrap.min.js",
+			"/Users/cgowan/workspace/sf-id-management/, -*.css, -*.less, -*.scssc, -*.bin, -*.xml, /Users/cgowan/workspace/sf-styleguide, -bootstrap.min.js",
+			"/Users/cgowan/workspace/sf-webapp/, -*.css, -*.less, -*.scssc, -*.bin, -*.xml, /Users/cgowan/workspace/sf-styleguide, -bootstrap.min.js",
+			"/Users/cgowan/workspace/sf-webapp/, -*.css, -*.less, -*.scssc, -*.bin, -*.java, -*.php, -*.xml, /Users/cgowan/workspace/sf-styleguide, -bootstrap.min.js",
+			"/Users/cgowan/workspace/sf-webapp/, -*.css, -*.less, -*.scssc, -*.bin, -*.java, -*.php, -*.xml, /Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp/, -*.css, -*.less, -*.scssc, -*.bin, -*.java, -*.php, -*.xml, /Users/cgowan/workspage/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp/, -*.css, -*.less, -*.scssc, -*.bin, -*.java, -*.php, -*.xml, /Users/cgowan/workspage/sf-stylequide",
+			"/Users/cgowan/workspace/sf-webapp/, -*.css, -*.less, -*.scssc, -*.bin, -*.java, -*.php, -*.xml",
+			"/Users/cgowan/workspace/sf-webapp/, -*.css, -*.less, -*.scssc, -*.bin, -*.java, -*.php",
+			"/Users/cgowan/workspace/sf-webapp/, -*.css, -*.less, -*.scssc, -*.bin",
+			"/Users/cgowan/workspace/sf-webapp/, -spredfast.css, -*.less, -*.scssc, -*.bin",
+			"/Users/cgowan/workspace/sf-webapp/, -spredfast.css, -*.less, -*.scssc",
+			"/Users/cgowan/workspace/sf-webapp/, -spredfast.css, -*.less",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/, -spredfast.css, -*.less",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/, -spredfast.css",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/, -spredfast.css",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/ -spredfast.css",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/content_center",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-webapp/jmvc",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp/jmvc",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-style",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-style",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"*.phtml",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp/application",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-webapp/jmvc",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/application",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp/jmvc",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/application",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc",
+			"/Users/cgowan/workspace/sf-webapp/application",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src",
+			"/Users/cgowan/workspace/sf-styleguide/src/sass/spredfast",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-styleguide",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc",
+			"/Users/cgowan/workspace/sf-webapp/application",
+			"/Users/cgowan/workspace/sf-webapp/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/",
+			"/Users/cgowan/workspace/sf-webapp/jmvc/src/main/jmvc/spredfast",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-webapp/application",
+			"/Users/cgowan/workspace/sf-webapp",
+			"/Users/cgowan/workspace/sf-webapp/application",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"responseDetails",
+			"responseDetailsView",
+			"response-details",
+			".btn-link",
+			"comment-text",
+			"comment-ext",
+			"comm- text",
+			"combo-box-sorting",
+			"Newest First",
+			"->setAction",
+			"->setActin",
+			"extends Common_BootstrapForm",
+			"importAction",
+			"controller",
+			"jshandler",
+			"importParameterHandler",
+			"importParameterHandler();",
+			"formDialog",
+			"refreshTags",
+			".import-tags",
+			"url",
+			"scheduledPublishDate.text",
+			"scheduledPublishDate",
+			"historyLink",
+			"historyLinkHelper",
+			"pubsLink",
+			"makeLinkObject",
+			"scheduledPublishDate",
+			"confirmationApi",
+			"confirmation-api",
+			"scheduledPublishDate",
+			"makeLinkObject",
+			"viewLinkObject",
+			"View in Agenda",
+			"view in agenda",
+			"startDate",
+			"attr",
+			"date",
+			"translateState",
+			"streamItem",
+			"}}\n",
+			"contentTab",
+			"ContentTab",
+			"ContentTabViewModel",
+			"content_tab_view_model/content_tab_view_model",
+			"ontent_tab_view_model/content_tab_view_model",
+			"ContentTabViewModel",
+			"_.",
+			"{\n",
+			"sendEvent",
+			"break_on_",
+			"xdebug",
+			"sendAction",
+			"success",
+			"$campaignId",
+			"doRedirect",
+			"$retry",
+			"sendAction",
+			"sendEventUrl",
+			"doRedirect",
+			"viewAction",
+			"viewEventUrl",
+			"error",
+			"send",
+			"Common_Controller",
+			"'.retry'",
+			"\".retry\"",
+			".retry",
+			"twitter-current-account-with-dropdown",
+			"dropdown-toggle",
+			"\"open\"",
+			"open",
+			"TwitterAccountsObserve",
+			"tableStateTwitterAccounts",
+			".account-select",
+			"twitter_account_selector/twitter_account_selector",
+			"twitter_account_selector",
+			"addStreamsTwitterAccountsView",
+			"menu",
+			"twitter-current-account-with-dropdown",
+			"mustache",
+			"TwitterAccounts",
+			"TwitterAccountSelector",
+			"twitter-user-account-selector",
+			"account-select",
+			".modal-body",
+			".modal-content",
+			"var can = ",
+			"isPermalinkChange",
+			"isPermalinkChanged",
+			"all_comments",
+			"down.phtml",
+			"down",
+			"layout-styleguide",
+			"@media",
+			"login-content",
+			"$side-padding",
+			"min-height",
+			".right-panel",
+			"<small class=\"muted\">",
+			"footer-container",
+			".footer-container",
+			"footer-container",
+			"isNativeRetweet",
+			"inboxItemView",
+			"eventItemView",
+			"inboxItemView",
+			"social_inbox/streams/views/inbox_item.mustache",
+			".native-retweet",
+			"stream-item-inner",
+			"retweet",
+			"\"RT ",
+			"RT ",
+			"RT",
+			"retweet",
+			"RT",
+			"retweet",
+			"text-content",
+			"RT",
+			".text-content:before",
+			"content.retweet",
+			"social_inbox/streams/views/inbox_item.mustache",
+			"stream-item-inner",
+			"company-select",
+			"manageCompany",
+			"company-select",
+			"companyNameHeading",
+			"initiatives-title-page"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\n"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 646.0
+	},
+	"output.xdebug":
+	{
+		"height": 257.0
+	},
+	"project": "heavyflow.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"history",
+				"sf-webapp/jmvc/src/main/jmvc/history/history.js"
+			],
+			[
+				"common.",
+				"sf-webapp/public/js/common.js"
+			],
+			[
+				"control",
+				"sf-webapp/library/Common/Controller.php"
+			],
+			[
+				"link.mus",
+				"sf-webapp/jmvc/src/main/jmvc/history/link.mustache"
+			],
+			[
+				"item_detail_header",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/item_detail/views/item_detail_header.mustache"
+			],
+			[
+				"item_detaul",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/item_detail/views/item_detail.mustache"
+			],
+			[
+				"content_tab",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/content_tab.js"
+			],
+			[
+				"conversation.m",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/conversation/views/conversation.mustache"
+			],
+			[
+				"item_",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/item_detail/views/item_detail.mustache"
+			],
+			[
+				"content_tab_view",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/content_tab_view_model/content_tab_view_model_tests.js"
+			],
+			[
+				"content_tab_view_mode",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/content_tab_view_model/content_tab_view_model.js"
+			],
+			[
+				"commoncontroll",
+				"sf-webapp/library/Common/Controller.php"
+			],
+			[
+				"eventcon",
+				"sf-webapp/application/controllers/EventController.php"
+			],
+			[
+				"twitter_acc",
+				"sf-webapp/jmvc/src/main/jmvc/twitter_account_selector/twitter_account_selector.js"
+			],
+			[
+				"login.scss",
+				"sf-id-management/login/src/main/ui/bower_components/sf-styleguide/src/sass/spredfast/_login.scss"
+			],
+			[
+				"message_tab_view",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/message_tab/message_tab_view_model/message_tab_view_model.js"
+			],
+			[
+				"_login.scss",
+				"sf-styleguide/src/sass/spredfast/_login.scss"
+			],
+			[
+				"variables.scss",
+				"sf-styleguide/src/sass/spredfast/_variables.scss"
+			],
+			[
+				"inbox_item",
+				"sf-webapp/jmvc/src/main/jmvc/models/inbox_item/inbox_item.js"
+			],
+			[
+				"inbox_item.js",
+				"sf-webapp/jmvc/src/main/jmvc/models/inbox_item/inbox_item.js"
+			],
+			[
+				"variable",
+				"sf-styleguide/src/sass/_variables.scss"
+			],
+			[
+				"variables",
+				"sf-styleguide/src/sass/spredfast/_variables.scss"
+			],
+			[
+				"spredfast/sprite_icons.scss",
+				"sf-webapp/jmvc/src/main/jmvc/bower_components/sf-styleguide/src/sass/spredfast/_sprite_icons.scss"
+			],
+			[
+				"icon.scss",
+				"sf-styleguide/src/sass/spredfast/_sprite_icons.scss"
+			],
+			[
+				"twitterinter",
+				"sf-webapp/application/models/TwitterInteraction.php"
+			],
+			[
+				"twitterstrea",
+				"sf-webapp/application/controllers/TwitterStreamController.php"
+			],
+			[
+				"streamcontroller",
+				"sf-webapp/application/controllers/StreamController.php"
+			],
+			[
+				"inbox_item.mustac",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/streams/views/inbox_item.mustache"
+			],
+			[
+				"_side_",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/_side_panel.scss"
+			],
+			[
+				"item_deta",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/item_detail/views/item_detail_contents_conversation.mustache"
+			],
+			[
+				"item_detail_co",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/item_detail/views/item_detail_contents.mustache"
+			],
+			[
+				"side_panel.scss",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/_side_panel.scss"
+			],
+			[
+				"page-tit",
+				"sf-webapp/application/views/scripts/partials/layout/page-title.phtml"
+			],
+			[
+				"page-title",
+				"sf-webapp/application/views/scripts/partials/layout/page-title.phtml"
+			],
+			[
+				"content_center/header/header",
+				"sf-webapp/jmvc/src/main/jmvc/content_center/header/header.js"
+			],
+			[
+				"layout",
+				"sf-webapp/application/layouts/scripts/layout.phtml"
+			],
+			[
+				"main_menu",
+				"sf-webapp/jmvc/src/main/jmvc/spredfast/main_menu/main_menu.js"
+			],
+			[
+				"_header.scss",
+				"sf-webapp/jmvc/src/main/jmvc/content_center/header/_header.scss"
+			],
+			[
+				"content_center/header/_header",
+				"sf-webapp/jmvc/src/main/jmvc/content_center/header/_header.scss"
+			],
+			[
+				"layout.phtml",
+				"sf-webapp/application/layouts/scripts/layout.phtml"
+			],
+			[
+				"todo.phtml",
+				"sf-webapp/application/views/scripts/partials/layout/todo.phtml"
+			],
+			[
+				"sf-styleguide/navbar",
+				"sf-styleguide/src/sass/spredfast/_navbar.scss"
+			],
+			[
+				"admin.scss",
+				"sf-webapp/jmvc/src/main/jmvc/admin/css/admin.scss"
+			],
+			[
+				"spredfast.css",
+				"sf-webapp/jmvc/src/main/jmvc/spredfast_app/css/spredfast.css"
+			],
+			[
+				"side_panel",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/side_panel.js"
+			],
+			[
+				"item_de",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/item_detail/views/item_detail.mustache"
+			],
+			[
+				"conversation.mu",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/conversation/views/conversation.mustache"
+			],
+			[
+				"longtext",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/streams/views/long-text.mustache"
+			],
+			[
+				"longtext.",
+				"sf-webapp/jmvc/src/main/jmvc/spredfast/long_text/long_text.js"
+			],
+			[
+				"comment.must",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/conversation/views/comment.mustache"
+			],
+			[
+				"stream_item",
+				"sf-webapp/jmvc/src/main/jmvc/models/stream_item/stream_item.js"
+			],
+			[
+				"itemdetailcon",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/item_detail/views/item_detail_contents_conversation.mustache"
+			],
+			[
+				"plain/pla",
+				"sf-webapp/jmvc/src/main/jmvc/spredfast/plain/plain.js"
+			],
+			[
+				"comment_dialo",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/comments/comments_dialog/comments_dialog.js"
+			],
+			[
+				"social_inbox",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/social_inbox.js"
+			],
+			[
+				"agenda_item",
+				"sf-webapp/jmvc/src/main/jmvc/publishing/models/agenda_item.js"
+			],
+			[
+				"testtostreamitem",
+				"sf-webapp/tests/library/Common/Riverstore/StreamItemFactoryTest.php"
+			],
+			[
+				"streamcon",
+				"sf-webapp/application/controllers/StreamController.php"
+			],
+			[
+				"controller.php",
+				"sf-webapp/library/Common/Controller.php"
+			],
+			[
+				"stream_item.js",
+				"sf-webapp/jmvc/src/main/jmvc/models/stream_item/stream_item.js"
+			],
+			[
+				"agenda_it",
+				"sf-webapp/jmvc/src/main/jmvc/publishing/models/agenda_item.js"
+			],
+			[
+				"social_in",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/social_inbox.js"
+			],
+			[
+				"publishing_conrto",
+				"sf-webapp/jmvc/src/main/jmvc/publishing/controllers/publishing_controller.js"
+			],
+			[
+				"week_",
+				"sf-webapp/jmvc/src/main/jmvc/publishing/week_item_popover/week_item_popover.js"
+			],
+			[
+				"conversation.scss",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/conversation/_conversation.scss"
+			],
+			[
+				"conversation.must",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/conversation/views/conversation.mustache"
+			],
+			[
+				"side_panel_map",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/side_panel_map.js"
+			],
+			[
+				"sidep",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/side_panel.js"
+			],
+			[
+				"agenda_item_de",
+				"sf-webapp/jmvc/src/main/jmvc/publishing/side_panel/agenda_item_details_panel.js"
+			],
+			[
+				"stream_item_de",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/stream_item_details/stream_item_details_panel.js"
+			],
+			[
+				"conversation",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/conversation/_conversation.scss"
+			],
+			[
+				"content_tab/content_tab_view_model/content_tab_view_model",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/content_tab_view_model/content_tab_view_model.js"
+			],
+			[
+				"metrics_view",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/metrics_view_model/metrics_view_model.js"
+			],
+			[
+				"streamcontroll",
+				"sf-webapp/application/controllers/StreamController.php"
+			],
+			[
+				"stream_item_detail",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/stream_item_details/stream_item_details_panel.js"
+			],
+			[
+				"live_handlbars",
+				"sf-styleguide/bower_components/live_handlebars/live_handlebars.js"
+			],
+			[
+				"menu.js",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/stream_item/menu/menu.js"
+			],
+			[
+				"facebookinsightsview",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/facebook_insights_view_model/facebook_insights_view_model.js"
+			],
+			[
+				"models/stream_item/stream_item",
+				"sf-webapp/jmvc/src/main/jmvc/models/stream_item/stream_item.js"
+			],
+			[
+				"agenda_item_",
+				"sf-webapp/jmvc/src/main/jmvc/publishing/models/agenda_item_test.js"
+			],
+			[
+				"inject/inject.js",
+				"sf-ui-training/bower_components/sf-js-core/src/inject/inject.js"
+			],
+			[
+				"asset_view",
+				"sf-webapp/jmvc/src/main/jmvc/content_center/asset_view_model/asset_view_model_tests.js"
+			],
+			[
+				"view_model",
+				"sf-webapp/jmvc/src/main/jmvc/content_center/asset_view_model/asset_view_model.js"
+			],
+			[
+				"spredfast/rest",
+				"sf-webapp/jmvc/src/main/jmvc/spredfast/rest/rest.js"
+			],
+			[
+				"spredfast/model/model",
+				"sf-webapp/jmvc/src/main/jmvc/spredfast/model/model.js"
+			],
+			[
+				"conversation.js",
+				"sf-webapp/jmvc/src/main/jmvc/publishing/conversation/conversation.js"
+			],
+			[
+				"facebook_in",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/facebook_insights_view_model/facebook_insights_view_model.js"
+			],
+			[
+				"metricstab",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/metrics_tab.js"
+			],
+			[
+				"stream_item_deta",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/stream_item_details/stream_item_details_panel.js"
+			],
+			[
+				"metrics_tab",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/metrics_tab.js"
+			],
+			[
+				"week_controller",
+				"sf-webapp/jmvc/src/main/jmvc/publishing/controllers/week_controller.js"
+			],
+			[
+				"agenda_",
+				"sf-webapp/jmvc/src/main/jmvc/publishing/controllers/agenda_controller.js"
+			],
+			[
+				"social_inbox.",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/social_inbox.js"
+			],
+			[
+				"comments",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/comments/comments_dialog/views/comments-dialog.mustache"
+			],
+			[
+				"ream",
+				"sf-webapp/node/node_modules/colors/ReadMe.md"
+			],
+			[
+				"content_center",
+				"sf-webapp/jmvc/src/main/jmvc/content_center/_content_center.scss"
+			],
+			[
+				"_content_cente",
+				"sf-webapp/jmvc/src/main/jmvc/content_center/_content_center.scss"
+			],
+			[
+				"agenda_contro",
+				"sf-webapp/jmvc/src/main/jmvc/publishing/controllers/agenda_controller.js"
+			],
+			[
+				"long_text",
+				"sf-webapp/jmvc/src/main/jmvc/spredfast/long_text/long_text.js"
+			],
+			[
+				"metrics.mustach",
+				"sf-webapp/jmvc/src/main/jmvc/side_panel/tabbed_content/content_tab/views/metrics_tab.mustache"
+			],
+			[
+				"_social",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/_social-inbox.scss"
+			],
+			[
+				"inbox_item.",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/streams/views/inbox_item.mustache"
+			],
+			[
+				"models/inboxitem",
+				"sf-webapp/jmvc/src/main/jmvc/models/inbox_item/inbox_item.js"
+			],
+			[
+				"scripts/event/view.phtml",
+				"sf-webapp/application/views/scripts/event/view.phtml"
+			],
+			[
+				"eventcontroller.php",
+				"sf-webapp/application/controllers/EventController.php"
+			],
+			[
+				"view.phtml",
+				"sf-webapp/application/views/scripts/bookmarking/view.phtml"
+			],
+			[
+				"comments.phtml",
+				"sf-webapp/application/views/scripts/partials/event-interactions/comments.phtml"
+			],
+			[
+				"comments-dialo",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/comments/comments_dialog/views/comments-dialog.mustache"
+			],
+			[
+				"stream_item_details_panel",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/stream_item_details/stream_item_details_panel.js"
+			],
+			[
+				"streaminbox_item",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/streams/views/inbox_item.mustache"
+			],
+			[
+				"long_text/l",
+				"sf-webapp/jmvc/src/main/jmvc/spredfast/long_text/long_text.js"
+			],
+			[
+				"safe",
+				"sf-webapp/jmvc/safe-block-helpers.txt"
+			],
+			[
+				"spredfact/_mixins",
+				"sf-styleguide/src/sass/spredfast/legacy/_mixins.scss"
+			],
+			[
+				"_variables",
+				"sf-styleguide/src/sass/spredfast/_variables.scss"
+			],
+			[
+				"sf-styleguide/src/sass/_navbar.scss",
+				"sf-styleguide/src/sass/_navbar.scss"
+			],
+			[
+				"bowerspredfast_variables",
+				"sf-webapp/jmvc/src/main/jmvc/bower_components/sf-styleguide/src/sass/spredfast/_variables.scss"
+			],
+			[
+				"_varia",
+				"sf-styleguide/src/sass/spredfast/_variables.scss"
+			],
+			[
+				"_spredfast.scss",
+				"sf-webapp/jmvc/src/main/jmvc/spredfast_app/sass/spredfast.scss"
+			],
+			[
+				"comments.mustache",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/comments/comments_dialog/views/comments.mustache"
+			],
+			[
+				"build",
+				"sf-webapp/jmvc/build.gradle"
+			],
+			[
+				"social_inbox.scss",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/_social-inbox.scss"
+			],
+			[
+				"comment-content.mustace",
+				"sf-webapp/jmvc/src/main/jmvc/social_inbox/comments/comments_dialog/views/comment-content.mustache"
+			],
+			[
+				"bower",
+				"sf-styleguide/bower.json"
+			],
+			[
+				"bower.json",
+				"sf-styleguide/bower.json"
+			],
+			[
+				"config.rb",
+				"sf-webapp/jmvc/config.rb"
+			],
+			[
+				"sf-webbuild.",
+				"sf-webapp/jmvc/build.gradle"
+			],
+			[
+				"build.gra",
+				"sf-styleguide/build.gradle"
+			],
+			[
+				"spredfast",
+				"sf-styleguide/src/sass/spredfast.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 980.0
+	},
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"16":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"18":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"19":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"20":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"21":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"22":
+				{
+					"group": 0,
+					"index": 6
+				},
+				"23":
+				{
+					"group": 0,
+					"index": 7
+				},
+				"24":
+				{
+					"group": 0,
+					"index": 8
+				},
+				"25":
+				{
+					"group": 0,
+					"index": 9
+				},
+				"26":
+				{
+					"group": 0,
+					"index": 10
+				},
+				"39":
+				{
+					"group": 0,
+					"index": 11
+				},
+				"40":
+				{
+					"group": 0,
+					"index": 12
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

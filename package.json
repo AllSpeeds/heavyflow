@@ -1,0 +1,26 @@
+{
+  "name": "heavyflow",
+  "version": "0.0.0",
+  "description": "Beer flow meter monitoring for Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec -u tdd test/tests/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AllSpeeds/heavyflow.git"
+  },
+  "keywords": [
+    "raspberry",
+    "pi",
+    "node",
+    "javascript",
+    "gpio"
+  ],
+  "author": "Chad Gowan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AllSpeeds/heavyflow/issues"
+  },
+  "homepage": "https://github.com/AllSpeeds/heavyflow"
+}
