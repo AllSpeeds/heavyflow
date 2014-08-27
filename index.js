@@ -12,7 +12,7 @@ fmeter.watch(function(err, value) {
 		exit();
 	}
 
-	total = total + value;
+	total++;
 	console.log(total);
 });
 
@@ -24,3 +24,5 @@ function exit() {
 }
 
 process.on('SIGINT', exit);
+
+// 100 Hz ( 100 pulses a sec ) - total cycle 10 milliseconds - total pulses 500 - puleses for 5 sec.
