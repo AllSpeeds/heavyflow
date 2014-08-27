@@ -1,5 +1,8 @@
 var Gpio = require('onoff').Gpio;
-var fmeter = new Gpio('12', 'in', 'rising');
+var gpioNum = 12;
+var fmeter = new Gpio(gpioNum, 'in', 'rising');
+
+console.log('Starting to watch for GPIO #' + gpioNum);
 
 fmeter.watch(function(err, value) {
 	if(err) {
@@ -10,6 +13,8 @@ fmeter.watch(function(err, value) {
 });
 
 function exit() {
+	console.log('exiting...');
+	
 	fmeter.unexport();
 	process.exit();
 }
