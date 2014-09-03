@@ -23,7 +23,8 @@
     "url": "https://github.com/AllSpeeds/heavyflow/issues"
   },
   "dependencies": {
-    "onoff": "*"
+    "onoff": "*",
+    "serialport": "*"
   },
   "homepage": "https://github.com/AllSpeeds/heavyflow",
   "devDependencies": {
