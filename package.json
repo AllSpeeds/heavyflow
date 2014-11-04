@@ -13,9 +13,15 @@
   "keywords": [
     "raspberry",
     "pi",
+    "raspberry pi",
+    "rpi",
     "node",
     "javascript",
-    "gpio"
+    "serial",
+    "usb",
+    "aws",
+    "sns",
+    "sqs"
   ],
   "author": "Chad Gowan",
   "license": "MIT",
@@ -23,7 +29,9 @@
     "url": "https://github.com/AllSpeeds/heavyflow/issues"
   },
   "dependencies": {
-    "onoff": "*",
+    "aws-sdk": "^2.0.23",
+    "aws-snsclient": "^0.2.0",
+    "minimist": "^1.1.0",
     "serialport": "*"
   },
   "homepage": "https://github.com/AllSpeeds/heavyflow",

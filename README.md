@@ -10,4 +10,14 @@ The real world application for this is reading from six flow meters connected to
 	npm i
 
 ## Run
-	npm start
+	node serial --port <port>
+
+#### Example
+	node serial --port /dev/tty.usbserial-A4001JUP
+
+### Find USB Device
+	ls /dev
+
+### TODO
+- Add links
+- Add AWS config steps
