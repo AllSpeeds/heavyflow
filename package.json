@@ -1,6 +1,6 @@
 {
   "name": "heavyflow",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Beer flow meter monitoring for Raspberry Pi",
   "main": "index.js",
   "scripts": {
