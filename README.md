@@ -21,5 +21,10 @@ Replace the X's in the `aws-config.js` with your own values.
 ### Find USB Device
 	ls /dev
 
+## Sample Data Structure
+	{"final":false,"data":{"0":17,"1":0,"2":0,"3":0,"4":0,"5":0}}
+
+	{"final":true,"data":{"0":3349,"1":0,"2":0,"3":0,"4":0,"5":0}}
+
 ### TODO
 - Add links
