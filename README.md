@@ -9,8 +9,8 @@ The real world application for this is reading from six flow meters connected to
 ## Installation
 	npm i
 
-###
-	Replace the X's in the `aws-config.js` with your own values.
+### AWS Config
+Replace the X's in the `aws-config.js` with your own values.
 
 ## Run
 	node index --port <port>
