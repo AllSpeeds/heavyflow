@@ -1,1 +1,1 @@
-module.exports = require("./serial");
+module.exports = require("./lib/serial");
