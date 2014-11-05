@@ -10,10 +10,10 @@ The real world application for this is reading from six flow meters connected to
 	npm i
 
 ## Run
-	node serial --port <port>
+	node index --port <port>
 
 #### Example
-	node serial --port /dev/tty.usbserial-A4001JUP
+	node index --port /dev/tty.usbserial-A4001JUP
 
 ### Find USB Device
 	ls /dev
