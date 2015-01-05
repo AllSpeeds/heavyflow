@@ -1,6 +1,9 @@
 Heavyflow
 =========
 
+[![Dependency Status](https://david-dm.org/allspeeds/heavyflow.svg?style=flat)](https://david-dm.org/allspeeds/heavyflow)
+[![devDependency Status](https://david-dm.org/allspeeds/heavyflow/dev-status.svg?style=flat)](https://david-dm.org/allspeeds/heavyflow#info=devDependencies)
+
 ## Description
 Read events from USB (serial port) and publish to AWS SNS.
 
